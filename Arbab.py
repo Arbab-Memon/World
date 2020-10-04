@@ -1,15 +1,15 @@
  
-# Decompiled by HTR-TECH | TAHMID RAYAT
-# Github : https://github.com/htr-tech
+# CREATED by HTR-TECH | TAHMID RAYAT
+# Github : https://github.com/ArbabMemon
 #---------------------------------------
-# Source File : a.py
+# Source File : Arbab.py
 # Time : Wed Sep  9 04:25:17 2020
 #---------------------------------------
 # uncompyle6 version 3.7.4
 # Python bytecode 2.7
 # Decompiled from: Python 2.7.16 (default, Oct 10 2019, 22:02:15) 
 # [GCC 8.3.0]
-# Embedded file name: <tahm1d>
+# Embedded file name: <Arbab>
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass
 os.system('rm -rf .txt')
 for n in range(99265):
